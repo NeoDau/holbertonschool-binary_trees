@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * find_a_depth - Returns depth of left most leaf
+ * find_a_depth - Returns depth of left most leaf.
  * @tree: pointer to the root node of the tree to check
  *
  * Return: Always
